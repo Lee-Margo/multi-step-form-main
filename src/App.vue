@@ -29,7 +29,7 @@ const route = useRoute()
         </div>
         <div class="flex items-center pb-[36px]">
           <div v-if="route.name==='add-ons'" class="standard active">3</div>
-          <div v-else class="standard">2</div>
+          <div v-else class="standard">3</div>
           <div class="flex flex-col title">
             <span class="  font-regular">STEP 3</span>
             <span>ADD-ONS</span>
@@ -37,7 +37,7 @@ const route = useRoute()
         </div>
         <div class="flex items-center pb-[36px]">
           <div v-if="route.name==='finish' || route.name==='thanks'" class="standard active">4</div>
-          <div v-else class="standard">2</div>
+          <div v-else class="standard">4</div>
           <div class="flex flex-col title">
             <span class="  font-regular">STEP 4</span>
             <span>SUMMARY</span>

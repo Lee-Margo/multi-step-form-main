@@ -1,35 +1,8 @@
-# vue-project
+# multi-step-form-main
 
-This template should help get you started developing with Vue 3 in Vite.
+Project credit from: https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+這不是一個完整的切版，沒有做RWD、防呆、擋網址、也沒有存值。
+所有的計算和顯現正確的顏色/值都是暴力做出來的。
+有參考價值但不多。
+可能未來會修改，不確定，但至少現在我覺得可以放上來了，反正也完成了一個大概。
