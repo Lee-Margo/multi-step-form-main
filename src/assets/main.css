@@ -1,0 +1,18 @@
+@import './base.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  max-width: 1440px;
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  font-weight: normal;
+  align-content: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
